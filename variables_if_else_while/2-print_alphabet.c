@@ -2,7 +2,8 @@
 
 int main/*Initiate the main program*/(void)
 {
-  /**
+int i;/*Create Variable Integar as i*/
+   /**
    *betty compliant no indentation
    *initialize a forloop to begin at 'a'
    *condition is met when the loop reaches 'z'
@@ -12,7 +13,7 @@ int main/*Initiate the main program*/(void)
    *putchar '\n' to print a new line when loop is complete
    *end program
    */
-for (int i = 'a'; i <= 'z'; i++)
+for (i = 'a'; i <= 'z'; i++)
 putchar(i);
 putchar('\n');
 return (0);
