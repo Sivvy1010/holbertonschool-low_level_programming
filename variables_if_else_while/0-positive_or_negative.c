@@ -1,24 +1,29 @@
-#include <stdlib.h>
+#include <stdio.h>
 #include <time.h>
 #include <stdlib.h> /* new header to include random */
 
 int main/*starts main, the beginning of the program*/(void)
 {
+  /**
+   *Betty compliant example
+   *%d takes an integer value as a signed decimal integer
+   *%i autodetects the value
+   */
 int n;
 
 srand(time(0));
 n = rand() - RAND_MAX / 2;
 if (n > 0)
 {
-printf("is positive");
+printf("%i is positive\n", n);
 }
 else if (n == 0)
 {
-printf("is zero");
+printf("%i is zero\n", n);
 }
 else
 {
-printf("is negative");
+printf("%i is negative\n", n);
 }
 return (0);
 }
