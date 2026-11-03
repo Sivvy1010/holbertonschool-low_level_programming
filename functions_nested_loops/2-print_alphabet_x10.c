@@ -12,5 +12,5 @@ for (j = 'a'; j <= 'z'; j++)/*a loop inside the 10x loop to print alphabet*/
 _putchar(j);/*print output of j "alphabet"*/
 }
 }
-putchar('\n');/*print new line when completed*/
+_putchar('\n');/*print new line when completed*/
 }
