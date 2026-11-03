@@ -12,4 +12,5 @@ Added file `2-print_alphabet.c`. A C program that prints the alphabet in lowerca
 Added file `3-print_alphabter.c`. A C program that prints the alphabet in both lower and UPPER case characters.\
 Added file `4-print_alphabt.c`. A C program that prints the alphabet, except character `q` and `e`.\
 Added file `5-print_numbers.c`. A C program that counts base 10 number. 0-9.\
-Added file `6-print_numberz.c`. A C program that prints all single digit numbers of base 10 starting from 0.
+Added file `6-print_numberz.c`. A C program that prints all single digit numbers of base 10 starting from 0.\
+Added file `7-print_tebahpla.c`. A C program that prints the lowercase alphabet in reverse. 
