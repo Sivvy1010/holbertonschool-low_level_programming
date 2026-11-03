@@ -1,6 +1,6 @@
 #include "main.h" /*Preprocess to include main.h functions*/
 
-int _islower/*Initialize islower function from main*/(int c);
+int _islower/*Initialize islower function from main*/(int c)
 {
  /**
  * Use of Betty compliance
