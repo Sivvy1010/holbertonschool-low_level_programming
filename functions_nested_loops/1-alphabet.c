@@ -13,5 +13,5 @@ void print_alphabet/*Initialized function*/(void)
 char i;/*creates a variable named i*/
 for (i = 'a'; i <= 'z'; i++)
 _putchar(i);/*use the function from our prototype function in main.h*/
-_putchar('\n')
+_putchar('\n');
 }
