@@ -2,7 +2,8 @@
 
 int main/*Initiate Main Function*/(void)/*void passes no argument*/
 {
-for (int i = 0; i < 10; i++)/*Initiate, Condition, Change Loop*/
+int i;/*Declare Variable i as an integer*/
+for (i = 0; i < 10; i++)/*Initiate, Condition, Change Loop*/
 {
 putchar('0' + i);/*wrap the 0 in quotations to set as character code*/
 }
