@@ -2,4 +2,5 @@
 
 ___
 
-Added Files `README.md`, `main.h` 0-putchar.c. 
+Added Files `README.md`, `main.h` `0-putchar.c`.\
+Added Files `1-alphabet.c` to repository"
