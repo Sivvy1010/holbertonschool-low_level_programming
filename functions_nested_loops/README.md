@@ -9,5 +9,6 @@ Added files `3-islower.c`, `3-main.c`, updated `main.h`.\
 Added files `4-isalpha.c`, `4-main.c`, updated `main.h`.\
 Added files `5-sign.c`, `5-main.c`, updated `main.h`.\
 Added files `6-abs.c`, updated `main.h`.\
-Added files `7-print_last_digit.c`, updated `main.h`.
+Added files `7-print_last_digit.c`, updated `main.h`.\
+Added files `8-24_hours.c`, updated `main.h`.
 ___
