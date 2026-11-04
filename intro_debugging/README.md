@@ -18,3 +18,5 @@ In this project, you will use Python Tutor’s C visualizer to debug small C pro
 The goal is not only to fix the code, but to understand exactly why it was wrong and how the correction changes the program’s behavior.
 
 ___
+
+Add file `sum_to_n.c`.
