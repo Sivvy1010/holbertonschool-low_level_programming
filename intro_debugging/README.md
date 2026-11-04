@@ -19,4 +19,5 @@ The goal is not only to fix the code, but to understand exactly why it was wrong
 
 ___
 
-Add file `sum_to_n.c`.
+Add file `sum_to_n.c`.\
+Add file `multiplication_table.c`.
