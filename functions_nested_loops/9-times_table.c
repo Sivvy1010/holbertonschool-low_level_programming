@@ -33,17 +33,17 @@ void times_table(void)
 			}
 			else
 			{
-				_putchar ('0' + p / 10);
-				_putchar ('0' + p & 10);
+				_putchar ('0' + i / 10);
+				_putchar ('0' + i & 10);
 			}
 			if (col < 9)
 			{
 				_putchar (',');
 				_putchar (' ');
 			}
-			c = c + 1;
+			col = col + 1;
 		}
 		_putchar ('\n');
-		r = r + 1;
+		row = row + 1;
 	}
 }
