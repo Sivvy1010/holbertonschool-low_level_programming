@@ -8,5 +8,6 @@ int _islower(int c); /* Prototype for islower function */
 int _isalpha(int c); /*Prototype for isalpha function */
 int print_sign(int n); /*Prototype for print_sign function */
 int _abs(int);
+int print_last_digit(int);
 
 #endif
