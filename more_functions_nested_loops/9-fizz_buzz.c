@@ -17,24 +17,25 @@ int main(void)
 	{
 		if (i % 3 == 0 && i % 5 == 0)
 		{
-			printf("FizzBuzz ");
-			i = i + 1;
+			printf("FizzBuzz");
 		}
 		else if (i % 3 == 0)
 		{
-			printf("Fizz ");
-			i = i + 1;
+			printf("Fizz");
 		}
 		else if (i % 5 == 0)
 		{
-			printf("Buzz ");
-			i = i + 1;
+			printf("Buzz");
 		}
 		else
 		{
-			printf("%d ", i);
-			i = i + 1;
+			printf("%d", i);
 		}
+	if (i < 100)
+	{
+		putchar(' ');
+	}
+	i = i + 1;
 	}
 	putchar('\n');
 	return (0);
