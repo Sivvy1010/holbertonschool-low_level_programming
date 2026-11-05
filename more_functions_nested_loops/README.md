@@ -2,5 +2,7 @@
 
 ___
 
-Added file `0-isupper.c`, updated `main.h` for new prototype.
+Added file `0-isupper.c`, updated `main.h` for new prototype.\
+Added file `1-isdigit.c`, updated `main.h` for new prototype.
+
 ___
