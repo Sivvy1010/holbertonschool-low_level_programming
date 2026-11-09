@@ -1,6 +1,6 @@
-# *WELCOME TO SIMPLE CALCULATOR*
+# **WELCOME TO SIMPLE CALCULATOR**
 
-**Note this calculator is made from scratch from my first week learning C Programming at Holberton School**
+##### **Note:** this calculator is made from scratch from my first week learning C Programming at Holberton School
 ___
 ## Scope:
 The scope of this task was to create a calculator that has:
@@ -32,7 +32,8 @@ ___
 This project has limitations. These are:
 - Addition, Subtraction,  Multiplcation and Division will only accept normal integers ***eg 1, 3, 5. Using 3.1 will not be accepted.***
 - Division will output a simple float output. 
-- Using any other character other than the options provided will end the program.- Using Floats as input will cause the program to loop. ***Press Ctrl+C*** to end the program in such an instance. 
+- Using any other character other than the options provided will end the program.
+- Using Floats as input will cause the program to loop. ***Press Ctrl+C*** to end the program in such an instance. 
 ___
 ###### Credits
 
