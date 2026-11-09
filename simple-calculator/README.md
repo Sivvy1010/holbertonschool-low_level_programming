@@ -17,7 +17,7 @@ ___
 ### Compiling
 
 To compile the `calculator.c` file, please ensure you have gcc installed and use the following command:\
-`gcc -Wall -Werror -Wextra -pedantic -std=gnu89 calculator.c -o calculator`\
+`gcc -Wall -Werror -Wextra -pedantic -std=gnu89 calculator.c -o calculator`
 
 Alternatively you can use the provided file in the repository `calculator` file by using the command:\
 `./calculator`.
@@ -30,9 +30,9 @@ ___
 ### Limitations
 
 This project has limitations. These are:
-- Addition, Subtraction and Multiplcation will only output normal integers.
+- Addition, Subtraction,  Multiplcation and Division will only accept normal integers ***eg 1, 3, 5. Using 3.1 will not be accepted.***
 - Division will output a simple float output. 
-- Using any other character other than the options provided will end the program.- Using Floats as input will cause the program to loop. *Press Ctrl+C* to end the program in such an instance. 
+- Using any other character other than the options provided will end the program.- Using Floats as input will cause the program to loop. ***Press Ctrl+C*** to end the program in such an instance. 
 ___
 ###### Credits
 
