@@ -33,8 +33,8 @@ ___
 
 ## Limitations of the Experiment
 
-- My calculations was based on a small test runs of 3 times with results varying in a range of `0.000458` to `0.000489` seconds in timing differences. (*see output file for results*)\
-- The test was ran on only 1 system, so varying hardware on other systems may contribute to different outcomes.\
+- My calculations was based on a small test runs of 3 times with results varying in a range of `0.000458` to `0.000489` seconds in timing differences. (*see output file for results*)
+- The test was ran on only 1 system, so varying hardware on other systems may contribute to different outcomes.
 - The test did not test energy consumption, it only tested runtimes.
 
 ___
