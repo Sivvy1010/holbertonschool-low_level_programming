@@ -11,4 +11,5 @@ ___
 - Files added for fourth task `3-puts.c`, updated `main.h`.\
 - Files added for fifth task `4-print_rev.c`, updated `main.h`.\
 - Files added for sixth task `5-rev_string.c`, updated `main.h`.\
-- Files added for seventh task `6-puts2.c`, updated `main.h`.
+- Files added for seventh task `6-puts2.c`, updated `main.h`.\
+- Files add for task eight, `7-puts_half.c`, updated `main.h`.
