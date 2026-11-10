@@ -14,4 +14,5 @@ ___
 - Files added for seventh task `6-puts2.c`, updated `main.h`.\
 - Files added for task eight, `7-puts_half.c`, updated `main.h`.\
 - Files added for task nine, `8-print_array.c`, updated `main.h.\
-- Files added for task ten, `9-strcpy.c`, updated `main.h`. 
+- Files added for task ten, `9-strcpy.c`, updated `main.h`.\
+- Files added for task eleven, `100-atoi.c`, updated `main.h`. 
