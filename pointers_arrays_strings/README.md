@@ -13,4 +13,5 @@ ___
 - Files added for sixth task `5-rev_string.c`, updated `main.h`.\
 - Files added for seventh task `6-puts2.c`, updated `main.h`.\
 - Files added for task eight, `7-puts_half.c`, updated `main.h`.\
-- Files added for task nine, `8-print_array.c`, updated `main.h.
+- Files added for task nine, `8-print_array.c`, updated `main.h.\
+- Files added for task ten, `9-strcpy.c`, updated `main.h`. 
