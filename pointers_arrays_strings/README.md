@@ -24,4 +24,5 @@ ___
 ### ***Projects***
 
 - File added `0-strcat.c`, updated `main.h`.\
-- File added `1-strncat.c`, updated `main.h`.
+- File added `1-strncat.c`, updated `main.h`.\
+- File added `2-strncpy.c`, updated `main.h`.
