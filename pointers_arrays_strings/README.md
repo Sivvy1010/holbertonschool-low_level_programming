@@ -27,4 +27,5 @@ ___
 - File added `1-strncat.c`, updated `main.h`.\
 - File added `2-strncpy.c`, updated `main.h`.\
 - File added `3-strcmp.c`, updated `main.h`.\
-- File added `4-rev_array.c`. updated `main.h`.
+- File added `4-rev_array.c`. updated `main.h`.\
+- File added `5-string_toupper.c`, updated `main.h`.
