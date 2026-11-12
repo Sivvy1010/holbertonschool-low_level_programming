@@ -42,3 +42,4 @@ ___
 - File added `3-strspn.c`, updated `main.h`.
 - File added `4-strpbrk.c`, updates `main.h`.
 - File added `5-strstr.c`, updated `main.h`.
+- File added `7-print_chessboard.c`, updated `main.h`.
