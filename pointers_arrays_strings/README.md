@@ -30,3 +30,4 @@ ___
 - File added `4-rev_array.c`. updated `main.h`.
 - File added `5-string_toupper.c`, updated `main.h`.
 - File added `6-cap_string.c`, updated `main.h`.
+- File added `7-leet.c`, updated `main.h`.
