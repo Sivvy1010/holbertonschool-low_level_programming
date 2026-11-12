@@ -37,3 +37,4 @@ ___
 ### **Projects**
 
 - File added `0-memset.c`, updated `main.h`
+- File added `1-memcpy.c`, updated `main.h`
