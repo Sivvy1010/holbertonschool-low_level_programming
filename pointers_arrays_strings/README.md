@@ -19,7 +19,7 @@ ___
 
 ___
 
-# **C - More pointers, arrays and strings**
+## **C - More pointers, arrays and strings**
 
 ### ***Projects***
 
@@ -31,3 +31,9 @@ ___
 - File added `5-string_toupper.c`, updated `main.h`.
 - File added `6-cap_string.c`, updated `main.h`.
 - File added `7-leet.c`, updated `main.h`.
+
+## **C - Even more pointers, arrays and strings**
+
+### **Projects**
+
+- File added `0-memset.c`, updated `main.h`
