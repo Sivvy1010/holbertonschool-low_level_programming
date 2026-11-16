@@ -2,5 +2,8 @@
 #define MAIN_H
 
 void *malloc_checked(unsigned int b);
+char * convert_null(char *s);
+unsigned int string_length(char *str);
+char *string_nconcat(char *s1, char *s2, unsigned int n);
 
 #endif
