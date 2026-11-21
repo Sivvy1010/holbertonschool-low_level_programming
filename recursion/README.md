@@ -6,6 +6,7 @@
 - Add file `1-print_rev_recursion.c`
 - Add file `2-strlen_recursion.c`
 - Add file `3-factorial.c`
+- Add file `4-pow_recursion.c`
 ___
 
 ### Prototypes
@@ -15,5 +16,5 @@ ___
 - Add prototype `void _print_rev_recursion(char *s);`
 - Add prototype`int _strlen_recursion(char *s);`
 - Add prototype `int factorial(int n);`
-
+- Add prototype `int _pow_recursion(int x, int y);`
 ___
