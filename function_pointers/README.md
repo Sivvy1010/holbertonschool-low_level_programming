@@ -5,3 +5,4 @@
 - Add files `function_pointers.h`
 - Add files `0-print_name.c`
 - Add files `1-array_iterator.c`
+- Add files `2-int_index.c`
