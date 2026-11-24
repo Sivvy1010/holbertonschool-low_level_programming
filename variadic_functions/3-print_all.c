@@ -16,12 +16,10 @@ int print_separator(int printed)
 	}
 	return (1);
 }
-
 /**
  * print_all - function to print format string
  * @format: string of type specifiers for the variadic arguments
  */
-
 void print_all(const char * const format, ...)
 {
 	va_list args;
@@ -51,9 +49,10 @@ void print_all(const char * const format, ...)
 				printed = print_separator(printed);
 				value = va_arg(args, char *);
 				if (value == NULL)
-					printf("(nil)");
-				if (value != NULL)
-					printf("%s", value);
+				{
+					value = "(nil)";
+				}
+				printf("%s", value);
 				break;
 			default:
 				break;
@@ -63,4 +62,3 @@ void print_all(const char * const format, ...)
 	va_end(args);
 	printf("\n");
 }
-
