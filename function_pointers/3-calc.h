@@ -9,6 +9,13 @@ int op_mul(int a, int b);
 int op_div(int a, int b);
 int op_mod(int a, int b);
 
+/**
+ * struct op - Holds an operator and its matching function
+ *
+ * @op: the operator string
+ * @f: pointer to the function that perfoms the operation
+ */
+
 typedef struct op
 {
 	char *op;
