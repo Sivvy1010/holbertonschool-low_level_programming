@@ -3,7 +3,7 @@
 
 /**
  * main - multiplies 2 integers
- * @argc - number of command line arguments
+ * @argc: number of command line arguments
  * @argv: array of command line arguments
  * Return: return 1 on error, return 0 on success
  */
